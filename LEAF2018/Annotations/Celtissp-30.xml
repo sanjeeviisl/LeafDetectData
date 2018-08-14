@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Celtissp-30.jpg</filename>
+	<path>C:\Users\aa\LeafDetectData\LEAF2018\JPEGImages\Celtissp-30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Celtissp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>16</ymin>
+			<xmax>670</xmax>
+			<ymax>909</ymax>
+		</bndbox>
+	</object>
+</annotation>

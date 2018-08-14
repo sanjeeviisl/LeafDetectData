@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Aesculuscalifornica-29.jpg</filename>
+	<path>C:\Users\aa\LeafDetectData\LEAF2018\JPEGImages\Aesculuscalifornica-29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aesculuscalifornica</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>128</ymin>
+			<xmax>643</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+</annotation>
