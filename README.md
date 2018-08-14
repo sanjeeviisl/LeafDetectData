@@ -2,13 +2,13 @@
 
 Following Leaf Details are added :
 
-drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:09 Accasellowiana
-drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:11 Acenegundo
-drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:13 Acerpalmaturu
-drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:14 Aesculuscalifornica
-drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:15 Arisarumvulgare
-drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:17 Betulapubescens
-drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:18 Bougainvilleasp
+Accasellowiana
+Acenegundo
+Acerpalmaturu
+Aesculuscalifornica
+Arisarumvulgare
+Betulapubescens
+Bougainvilleasp
 drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:19 Buxussempervirens
 drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:21 Castaneasativa
 drwxrwxr-x 2 ubuntu ubuntu 4096 Aug  8 07:23 Celtissp
