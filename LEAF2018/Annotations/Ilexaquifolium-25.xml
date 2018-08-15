@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Ilexaquifolium-25.jpg</filename>
+	<path>C:\Users\aa\LeafDetectData\LEAF2018\JPEGImages\Ilexaquifolium-25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ilexaquifolium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>232</ymin>
+			<xmax>507</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

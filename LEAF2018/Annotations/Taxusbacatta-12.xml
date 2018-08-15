@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Taxusbacatta-12.jpg</filename>
+	<path>C:\Users\aa\LeafDetectData\LEAF2018\JPEGImages\Taxusbacatta-12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Taxusbacatta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>150</ymin>
+			<xmax>516</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>

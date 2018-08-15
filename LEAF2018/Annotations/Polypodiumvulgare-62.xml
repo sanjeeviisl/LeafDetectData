@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Polypodiumvulgare-62.jpg</filename>
+	<path>C:\Users\aa\LeafDetectData\LEAF2018\JPEGImages\Polypodiumvulgare-62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Polypodiumvulgare</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>8</ymin>
+			<xmax>587</xmax>
+			<ymax>915</ymax>
+		</bndbox>
+	</object>
+</annotation>
