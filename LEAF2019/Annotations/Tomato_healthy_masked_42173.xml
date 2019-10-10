@@ -1,7 +1,7 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>Tomato_healthy_masked_41783.jpg</filename>
-	<path>C:\Users\sanjeevk\LeafDetectData\LEAF2019\JPEGImages\Tomato_healthy_masked_41783.jpg</path>
+	<filename>Tomato_healthy_masked_42173.jpg</filename>
+	<path>C:\Users\sanjeevk\LeafDetectData\LEAF2019\JPEGImages\Tomato_healthy_masked_42173.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>Tomato_healthy</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>11</xmin>
-			<ymin>18</ymin>
-			<xmax>236</xmax>
-			<ymax>248</ymax>
+			<xmin>49</xmin>
+			<ymin>7</ymin>
+			<xmax>231</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 </annotation>
