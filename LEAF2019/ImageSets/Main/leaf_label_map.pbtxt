@@ -1,0 +1,155 @@
+item {
+  id: 1
+  name: 'potato_healthy'
+}
+
+item {
+  id: 2
+  name: 'infected_potato_early_blight'
+}
+
+item {
+  id: 3
+  name: 'potato_early_blight'
+}
+
+item {
+  id: 4
+  name: 'infected_potato_late_blight'
+}
+
+item {
+  id: 5
+  name: 'potato_late_blight'
+}
+
+item {
+  id: 6
+  name: 'tomato_healthy'
+}
+
+item {
+  id: 7
+  name: 'infected_tomato_septoria_spot'
+}
+
+item {
+  id: 8
+  name: 'tomato_septoria_spot'
+}
+
+item {
+  id: 9
+  name: 'infected_tomato_spider_mites'
+}
+
+item {
+  id: 10
+  name: 'tomato_spider_mites'
+}
+
+item {
+  id: 11
+  name: 'infected_tomato_target_spot'
+}
+
+item {
+  id: 12
+  name: 'tomato_target_spot'
+}
+
+item {
+  id: 13
+  name: 'infected_tomato_curl_virus'
+}
+
+item {
+  id: 14
+  name: 'tomato_curl_virus'
+}
+
+item {
+  id: 15
+  name: 'infected_tomato_mosaic_virus'
+}
+
+item {
+  id: 16
+  name: 'tomato_mosaic_virus'
+}
+
+item {
+  id: 17
+  name: 'infected_tomato_leaf_mold'
+}
+
+item {
+  id: 18
+  name: 'tomato_leaf_mold'
+}
+
+item {
+  id: 19
+  name: 'infected_tomato_bacterial_spot'
+}
+
+item {
+  id: 20
+  name: 'tomato_bacterial_spot'
+}
+
+item {
+  id: 21
+  name: 'infected_tomato_early_blight'
+}
+
+item {
+  id: 22
+  name: 'tomato_early_blight'
+}
+
+item {
+  id: 23
+  name: 'infected_tomato_late_blight'
+}
+
+item {
+  id: 24
+  name: 'tomato_late_blight'
+}
+
+item {
+  id: 25
+  name: 'corn_healthy'
+}
+
+item {
+  id: 26
+  name: 'infected_corn_common_rust'
+}
+
+item {
+  id: 27
+  name: 'corn_common_rust'
+}
+
+item {
+  id: 28
+  name: 'infected_corn_gray_leaf'
+}
+
+item {
+  id: 29
+  name: 'corn_gray_leaf'
+}
+
+item {
+  id: 30
+  name: 'infected_corn_northern_Blight'
+}
+
+item {
+  id: 31
+  name: 'corn_northern_blight'
+}
+
