@@ -176,7 +176,6 @@ Corn_healthy_masked_8997
 Corn_healthy_masked_8998
 Corn_healthy_masked_8999
 Corn_healthy_masked_9000
-list.txt
 Potato_Early_blight_masked_27481
 Potato_Early_blight_masked_27482
 Potato_Early_blight_masked_27483
