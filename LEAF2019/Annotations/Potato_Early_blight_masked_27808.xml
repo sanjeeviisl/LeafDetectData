@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Early_blight</name>
+		<name>Potato_Early_blight</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Early_blight</name>
+		<name>Potato_Early_blight</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Early_blight</name>
+		<name>Potato_Early_blight</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Early_blight</name>
+		<name>Potato_Early_blight</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
