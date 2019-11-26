@@ -1,0 +1,34 @@
+item {
+  id: 1
+  name: 'Corn_healthy'
+}
+
+item {
+  id: 2
+  name: 'Infected_Corn_Common_rust'
+}
+
+item {
+  id: 3
+  name: 'Corn_Common_rust'
+}
+
+item {
+  id: 4
+  name: 'Infected_Corn_Gray_leaf'
+}
+
+item {
+  id: 5
+  name: 'Corn_Gray_leaf'
+}
+
+item {
+  id: 6
+  name: 'Infected_Corn_Northern_Blight'
+}
+
+item {
+  id: 7
+  name: 'Corn_Northern_Blight'
+}
