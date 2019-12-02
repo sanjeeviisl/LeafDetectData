@@ -1,4 +1,4 @@
-<annotation>
+<annotation verified="yes">
 	<folder>JPEGImages</folder>
 	<filename>Tomato_Target_Spot_masked_49939.jpg</filename>
 	<path>C:\Users\sanjeevk\LeafDetectData\LEAF2019\JPEGImages\Tomato_Target_Spot_masked_49939.jpg</path>
@@ -21,78 +21,6 @@
 			<ymin>21</ymin>
 			<xmax>216</xmax>
 			<ymax>245</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Target_Spot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>40</xmin>
-			<ymin>179</ymin>
-			<xmax>82</xmax>
-			<ymax>221</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Target_Spot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>36</xmin>
-			<ymin>127</ymin>
-			<xmax>86</xmax>
-			<ymax>172</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Target_Spot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>63</xmin>
-			<ymin>70</ymin>
-			<xmax>111</xmax>
-			<ymax>113</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Target_Spot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>125</xmin>
-			<ymin>71</ymin>
-			<xmax>178</xmax>
-			<ymax>125</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Target_Spot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>94</xmin>
-			<ymin>130</ymin>
-			<xmax>195</xmax>
-			<ymax>174</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Target_Spot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>97</xmin>
-			<ymin>181</ymin>
-			<xmax>168</xmax>
-			<ymax>216</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -18,69 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>12</xmin>
-			<ymin>15</ymin>
+			<ymin>10</ymin>
 			<xmax>215</xmax>
 			<ymax>237</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Curl_Virus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>118</xmin>
-			<ymin>16</ymin>
-			<xmax>191</xmax>
-			<ymax>73</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Curl_Virus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>98</xmin>
-			<ymin>76</ymin>
-			<xmax>147</xmax>
-			<ymax>133</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Curl_Virus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>152</xmin>
-			<ymin>79</ymin>
-			<xmax>205</xmax>
-			<ymax>135</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Curl_Virus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>92</xmin>
-			<ymin>138</ymin>
-			<xmax>154</xmax>
-			<ymax>187</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Tomato_Curl_Virus</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>20</xmin>
-			<ymin>161</ymin>
-			<xmax>85</xmax>
-			<ymax>213</ymax>
 		</bndbox>
 	</object>
 </annotation>
