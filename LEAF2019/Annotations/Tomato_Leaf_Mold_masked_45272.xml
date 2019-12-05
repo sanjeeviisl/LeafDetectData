@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Tomato_Leaf_Mold_masked_45272.jpg</filename>
+	<path>C:\Users\sanjeevk\LeafDetectData\LEAF2019\JPEGImages\Tomato_Leaf_Mold_masked_45272.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Infected_Tomato_Leaf_Mold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>4</ymin>
+			<xmax>228</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
