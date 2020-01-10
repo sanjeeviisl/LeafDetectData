@@ -1,0 +1,26 @@
+<annotation>
+	<folder>22.Potato_healthy</folder>
+	<filename>Potato_healthy_masked_28492.jpg</filename>
+	<path>C:\Users\sanjeevk\leaf_data_set\plantdisease\processed\22.Potato_healthy\Potato_healthy_masked_28492.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato_healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>15</ymin>
+			<xmax>218</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

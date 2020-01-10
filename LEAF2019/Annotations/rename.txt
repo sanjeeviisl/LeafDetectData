@@ -1,0 +1,4 @@
+for f in Tomato_Septoria_leaf_spot*.*; do
+    mv -- "$f" "${f/_leaf/}"
+done
+
