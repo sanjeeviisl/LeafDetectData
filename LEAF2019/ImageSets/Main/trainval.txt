@@ -1607,7 +1607,6 @@ Potato_healthy_28629
 Potato_healthy_28630
 Potato_healthy_28631
 Potato_healthy_28632
-
 Tomato_Bacterial_spot_38494
 Tomato_Bacterial_spot_38495
 Tomato_Bacterial_spot_38496
