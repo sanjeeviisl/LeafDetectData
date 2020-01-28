@@ -26,4 +26,3 @@ infected_corn_gray_leaf,
 corn_gray_leaf,
 infected_corn_northern_blight,
 corn_northern_blight
-
