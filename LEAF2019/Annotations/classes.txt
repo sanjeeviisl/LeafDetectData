@@ -1,0 +1,15 @@
+Infected_Tomato_Leaf_Mold
+Tomato_Leaf_Mold
+
+
+Infected_Tomato_Bacterial_spot
+Tomato_Bacterial_spot
+Infected_Tomato_Early_blight
+Tomato_Early_blight
+Infected_Potato_Early_blight
+Potato_Early_blight
+Potato_healthy
+Tomato_healthy
+Potato_Late_blight
+Infected_Tomato_Late_blight
+Tomato_Late_blight

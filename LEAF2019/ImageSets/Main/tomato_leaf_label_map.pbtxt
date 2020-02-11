@@ -1,0 +1,95 @@
+
+item {
+  id: 1
+  name: 'Tomato_healthy'
+}
+
+item {
+  id: 2
+  name: 'Infected_Tomato_Septoria_spot'
+}
+
+item {
+  id: 3
+  name: 'Tomato_Septoria_spot'
+}
+
+item {
+  id: 9
+  name: 'Infected_Tomato_Spider_mites'
+}
+
+item {
+  id: 4
+  name: 'Tomato_Spider_mites'
+}
+
+item {
+  id: 5
+  name: 'Infected_Tomato_Target_Spot'
+}
+
+item {
+  id: 6
+  name: 'Tomato_Target_Spot'
+}
+
+item {
+  id: 7
+  name: 'Infected_Tomato_Curl_Virus'
+}
+
+item {
+  id: 8
+  name: 'Tomato_Curl_Virus'
+}
+
+item {
+  id: 9
+  name: 'Infected_Tomato_mosaic_virus'
+}
+
+item {
+  id: 10
+  name: 'Tomato_mosaic_virus'
+}
+
+item {
+  id: 11
+  name: 'Infected_Tomato_Leaf_Mold'
+}
+
+item {
+  id: 12
+  name: 'Tomato_Leaf_Mold'
+}
+
+item {
+  id: 13
+  name: 'Infected_Tomato_Bacterial_spot'
+}
+
+item {
+  id: 14
+  name: 'Tomato_Bacterial_spot'
+}
+
+item {
+  id: 15
+  name: 'Infected_Tomato_Early_blight'
+}
+
+item {
+  id: 16
+  name: 'Tomato_Early_blight'
+}
+
+item {
+  id: 17
+  name: 'Infected_Tomato_Late_blight'
+}
+
+item {
+  id: 18
+  name: 'Tomato_Late_blight'
+}

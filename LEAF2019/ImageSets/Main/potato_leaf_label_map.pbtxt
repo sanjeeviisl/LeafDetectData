@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'Potato_healthy'
+}
+
+item {
+  id: 2
+  name: 'Infected_Potato_Early_blight'
+}
+
+item {
+  id: 3
+  name: 'Potato_Early_blight'
+}
+
+item {
+  id: 4
+  name: 'Infected_Potato_Late_blight'
+}
+
+item {
+  id: 5
+  name: 'Potato_Late_blight'
+}

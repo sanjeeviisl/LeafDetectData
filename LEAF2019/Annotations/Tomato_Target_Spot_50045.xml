@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Tomato_Target_Spot_masked_50045.jpg</filename>
+	<path>C:\Users\sanjeevk\LeafDetectData\LEAF2019\JPEGImages\Tomato_Target_Spot_masked_50045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Infected_Tomato_Target_Spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>33</ymin>
+			<xmax>232</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

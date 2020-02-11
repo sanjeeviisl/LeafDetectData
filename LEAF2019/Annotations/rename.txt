@@ -1,0 +1,11 @@
+for f in Tomato_Septoria_leaf_spot*.*; do
+    mv -- "$f" "${f/_leaf/}"
+done
+
+#!/bin/sh
+num=1
+for file in *.jpg; do
+       mv "$file" "$file.(printf "%u" $num).jpg"
+       let num=$num+1
+done
+
