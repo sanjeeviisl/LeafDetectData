@@ -1,5 +1,5 @@
-Infected_Tomato_Leaf_Mold
-Tomato_Leaf_Mold
+Infected_Tomato_Mold
+Tomato_Mold
 
 
 Infected_Tomato_Bacterial_spot
