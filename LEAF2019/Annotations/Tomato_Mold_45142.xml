@@ -1,7 +1,7 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>Tomato_Leaf_Mold_45142.jpg</filename>
-	<path>C:\Users\sanjeevk\LeafDetectData\LEAF2019\JPEGImages\Tomato_Leaf_Mold_45142.jpg</path>
+	<filename>Tomato_Mold_45142.jpg</filename>
+	<path>C:\Users\sanjeevk\LeafDetectData\LEAF2019\JPEGImages\Tomato_Mold_45142.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Infected_Tomato_Leaf_Mold</name>
+		<name>Infected_Tomato_Mold</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Leaf_Mold</name>
+		<name>Tomato_Mold</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Leaf_Mold</name>
+		<name>Tomato_Mold</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Leaf_Mold</name>
+		<name>Tomato_Mold</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -60,7 +60,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Leaf_Mold</name>
+		<name>Tomato_Mold</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -72,7 +72,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Tomato_Leaf_Mold</name>
+		<name>Tomato_Mold</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
